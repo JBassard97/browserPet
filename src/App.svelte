@@ -1,10 +1,8 @@
 <script lang="js">
-  import Counter from "./lib/Counter.svelte";
+  import LivingRoom from "./lib/environmentComponents/LivingRoom.svelte";
 </script>
 
-<main>
-      <Counter />
-</main>
+<LivingRoom />
 
 <style>
 </style>
